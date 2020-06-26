@@ -5,5 +5,6 @@ while countdown >= 1
   puts "#{countdown}"
   countdown -= 1 
   break if countdown == 0
-  puts "Happy New Year!"
 end
+
+puts "Happy New Year!"
